@@ -5,3 +5,10 @@
 # PYTH
 # PYTHO
 # PYTHON
+
+word = input("Enter a word: ")
+current = ""
+
+for char in word:
+    current += char #adds 1 character to current at a time
+    print(current)

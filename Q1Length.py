@@ -3,7 +3,7 @@
 
 #start loop
 while True:
-    #gets word from user
+    # gets word from user
     word = input("Enter a word: ")
 
     #if user wants to quit   
